@@ -6,3 +6,6 @@
 .custom-btn{
     @apply rounded-lg ;
 }
+.ct-topmenu-expended{
+    @apply absolute top-10 z-50 w-full bg-white text-center animate-slideDown;
+}
